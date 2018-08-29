@@ -1,0 +1,8 @@
+Code-Review+2: Steve Baker <sbaker@redhat.com>
+Workflow+1: Steve Baker <sbaker@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 29 Aug 2018 01:32:44 +0000
+Reviewed-on: https://review.openstack.org/597335
+Project: openstack/ansible-role-tripleo-barbican
+Branch: refs/heads/master
